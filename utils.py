@@ -16,7 +16,7 @@ from selenium.webdriver.common.keys import Keys
 from pyproj import Proj, transform
 
 
-def round(lat: str, lon: str, dataset, r: int = 50):
+def round(lat: str, lon: str, dataset, r: int = 250):
     dataset['geom'] = dataset.apply(lambda r: Point(r[lon], r[lat]), axis=1)
     gdf = gpd.GeoDataFrame(dataset, geometry='geom', crs='epsg:4326')
     gdf_flat = gdf.to_crs('epsg:6347')
