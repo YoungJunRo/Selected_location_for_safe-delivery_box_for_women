@@ -32,3 +32,8 @@ Gurobi Solver를 활용하여 Simple MIP(Mixed Integer Linear Programming)를 �
 ## Data
 
 ### Data list
+
+- [경찰청_경찰관서 위치 주소 현황_20220831.csv](https://www.data.go.kr/data/15054711/fileData.do?recommendDataYn=Y)
+- [서울시 안심택배함 설치 장소.csv](http://data.seoul.go.kr/dataList/OA-20922/S/1/datasetView.do;jsessionid=57F0975A52DB16E1382B130AA281E7AF.new_portal-svr-11)
+- [1인가구(연령별)_20230102224648.csv](https://data.seoul.go.kr/dataList/10995/S/2/datasetView.do)
+- [5대+범죄+발생현황_20230102224619.csv](https://data.seoul.go.kr/dataList/316/S/2/datasetView.do)
