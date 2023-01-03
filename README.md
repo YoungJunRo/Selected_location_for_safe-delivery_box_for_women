@@ -1,6 +1,6 @@
 # Selected_location_for_safe_delivery_box_for_women
 
-## Data update with refactoring date : 2023-01-01 ~
+## Data update with refactoring date : 2023-01-01 ~ 2023-01-03
 
 ## How To use
 
@@ -37,3 +37,6 @@ Gurobi Solver를 활용하여 Simple MIP(Mixed Integer Linear Programming)를 �
 - [서울시 안심택배함 설치 장소.csv](http://data.seoul.go.kr/dataList/OA-20922/S/1/datasetView.do;jsessionid=57F0975A52DB16E1382B130AA281E7AF.new_portal-svr-11)
 - [1인가구(연령별)_20230102224648.csv](https://data.seoul.go.kr/dataList/10995/S/2/datasetView.do)
 - [5대+범죄+발생현황_20230102224619.csv](https://data.seoul.go.kr/dataList/316/S/2/datasetView.do)
+- [5_지하철노선위경도정보(서울 지하철 노선도 기준).csv](https://www.data.go.kr/data/15099316/fileData.do?recommendDataYn=Y)
+- [fulldata_08_25_01_P_대규모점포.csv](https://www.data.go.kr/data/15045013/fileData.do)
+- [서울교통공사_자치구별지하철역정보_20221130.csv](https://www.data.go.kr/data/15045013/fileData.do)
